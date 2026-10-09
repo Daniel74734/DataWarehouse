@@ -1,0 +1,8 @@
+﻿# raw source data
+*.csv
+data/
+
+# SQL Server leftovers
+*.bak
+*.ldf
+*.mdf
