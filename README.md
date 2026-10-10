@@ -1,4 +1,4 @@
-# BudgetWise Medallion Warehouse
+# BudgetWise Personal Finance Warehouse
 
 End-to-end SQL Server data warehouse (bronze/silver/gold) that cleans two messy personal finance datasets into a star schema for expense analytics.
 
