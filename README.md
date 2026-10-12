@@ -69,7 +69,8 @@ Run the scripts in `scripts/` in this order, using SSMS:
 
 ## Dashboard
 
-A Power BI dashboard built on the gold layer is in progress and will be added here.
+Power BI Dashboard built on the gold layer.
+![Expenses Dashboard](image.png)
 
 ## Documentation
 
