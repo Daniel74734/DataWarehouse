@@ -68,9 +68,22 @@ Run the scripts in `scripts/` in this order, using SSMS:
 - **Encoding.** Bronze loads with `CODEPAGE = '65001'` (UTF-8) so currency symbols are not corrupted.
 
 ## Dashboard
-
 Power BI Dashboard built on the gold layer.
+
+**1. Expenses overview.** Totals, monthly trend, spend by category, payment mode, location and transaction type.
 ![Expenses Dashboard](image.png)
+
+**2. Time patterns.** Spend by month and year, by weekday, by quarter, and weekdays compared with weekends.
+
+![Time patterns](image-1.png)
+
+**3. Category deep-dive.** Pick a category to see its payment modes and its trend over time.
+
+![Category deep-dive](image-2.png)
+
+**4. Data quality.** How many rows had missing values, and how the warehouse handled them.
+
+![Data quality](image-3.png)
 
 ## Documentation
 
