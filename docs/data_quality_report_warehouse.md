@@ -1,7 +1,5 @@
 # BudgetWiseDW Data Quality Report (Warehouse)
 
-Report date: 2026-10-10
-
 This report describes data quality **after** the bronze, silver and gold layers were built. It complements `DATA_QUALITY_REPORT.md`, which profiles the raw source files before any design decisions were made.
 
 ## 1. Scope
